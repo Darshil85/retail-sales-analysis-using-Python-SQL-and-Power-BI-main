@@ -1426,7 +1426,7 @@ The model above powers a 6-page report:
 
 ## 👤 Author
 
-**Abiskar Shiwakoti**
+**Darshil Kumar**
 
 Data Analyst | SQL | Data Analytics
 
