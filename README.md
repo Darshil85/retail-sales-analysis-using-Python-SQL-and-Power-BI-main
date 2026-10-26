@@ -1430,7 +1430,7 @@ The model above powers a 6-page report:
 
 Data Analyst | SQL | Data Analytics
 
-[LinkedIn](https://www.linkedin.com/in/a-shiwakoti-b04702238/) • [GitHub](https://github.com/ashiwakoti-analytics)
+[LinkedIn](https://www.linkedin.com/in/darshilkumar85/) • [GitHub](https://github.com/Darshil85/retail-sales-analysis-using-Python-SQL-and-Power-BI-main.git)
 
 ## ⭐ Project Purpose
 
